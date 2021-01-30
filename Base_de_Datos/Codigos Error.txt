@@ -1,0 +1,12 @@
+50001 Error al cargar catálogos
+50002 'ERROR AL INSERTAR DATOS EN LA TABLA [Pais] (SPCargar_Catalogo)'
+50003 'ERROR AL INSERTAR DATOS EN LA TABLA [Giro] (SPCargar_Catalogo)'
+50004 'ERROR AL INSERTAR DATOS EN LA TABLA [Etapa] (SPCargar_Catalogo)'
+50005 'ERROR AL INSERTAR DATOS EN LA TABLA [PremioMontraña] (SPCargar_Catalogo)'
+50006 'ERROR AL INSERTAR DATOS EN LA TABLA [Equipo] (SPCargar_Catalogo)'
+50007 'ERROR AL INSERTAR DATOS EN LA TABLA [Corredor] (SPCargar_Catalogo)'
+50008 'ERROR AL INSERTAR DATOS EN LA TABLA [Juez] (SPCargar_Catalogo)'
+50009 'ERROR AL INSERTAR DATOS EN LA TABLA [TipoMovimientoTiempo] (SPCargar_Catalogo)'
+50010 'ERROR AL INSERTAR DATOS EN LA TABLA [TipoMovimientosPuntosRegular] (SPCargar_Catalogo)'
+50011 'ERROR AL INSERTAR DATOS EN LA TABLA [TipoMovimientoPuntosMontaña] (SPCargar_Catalogo)'
+50012 'ERROR AL Iniciar simulación ([dbo].[SPIniciarSimulacion])'
