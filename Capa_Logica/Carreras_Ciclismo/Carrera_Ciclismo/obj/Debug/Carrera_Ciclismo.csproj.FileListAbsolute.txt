@@ -1,0 +1,2 @@
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\Carrera_Ciclismo\obj\Debug\Carrera_Ciclismo.csprojAssemblyReference.cache
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\Carrera_Ciclismo\obj\Debug\Carrera_Ciclismo.csproj.CoreCompileInputs.cache

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model.dao", "model.dao\mode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model.entity", "model.entity\model.entity.csproj", "{DAB8F1F0-8515-4068-A6FF-849F5D758874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carrera_Ciclismo", "Carrera_Ciclismo\Carrera_Ciclismo.csproj", "{CC9A30EB-32F3-4F25-BEDD-529F8E53E08F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DAB8F1F0-8515-4068-A6FF-849F5D758874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAB8F1F0-8515-4068-A6FF-849F5D758874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAB8F1F0-8515-4068-A6FF-849F5D758874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9A30EB-32F3-4F25-BEDD-529F8E53E08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9A30EB-32F3-4F25-BEDD-529F8E53E08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9A30EB-32F3-4F25-BEDD-529F8E53E08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9A30EB-32F3-4F25-BEDD-529F8E53E08F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

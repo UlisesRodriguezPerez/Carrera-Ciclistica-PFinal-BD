@@ -1,0 +1,40 @@
+﻿@model model.entity.Giro
+@{ ViewBag.Title = "Inicio"; }
+
+<link href="~/Content/style.css" rel="stylesheet" type="text/css" />
+
+<h1></h1>
+<div class="clear-loading spinner">
+    <span></span>
+</div>
+<div class="w3ls-login box box--big">
+    <!-- form starts here -->
+    <form action="~/Menu/Verify" method="post">
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Nombre del Giro </label>
+            <!--<input type="text" name="name" placeholder=" Giro" required="" />-->
+            @Html.EditorFor(model => model.NombreGiro, new { htmlAttributes = new { @type = "text", @name = "name", @placeholder = " Giro", required = "" } })
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-unlock-alt" aria-hidden="true"></i> Anio </label>
+   
+            @Html.EditorFor(model => model.Anio, new { htmlAttributes = new { @type = "anio", @name = "anio", @placeholder = " Anio", @required = "", @*@id = "myInput"*@ } })
+            <div class="agile_label">
+                @*<input id="check3" name="check3" type="checkbox" value="show password" onclick="myFunction()">
+                <label class="check" for="check3">Mostrar contraseña</label>*@
+            </div>
+        </div>
+        <!-- script for show password -->
+        @*<script>function myFunction() {
+                var x = document.getElementById("myInput");
+                if (x.type === "password") {
+                    x.type = "text";
+                } else {
+                    x.type = "password";
+                }*@
+            @*}</script>*@
+        <!-- //end script -->
+        <input type="submit" value="Buscar">
+    </form>
+</div>
+<p>@ViewBag.ErrorMessage</p>

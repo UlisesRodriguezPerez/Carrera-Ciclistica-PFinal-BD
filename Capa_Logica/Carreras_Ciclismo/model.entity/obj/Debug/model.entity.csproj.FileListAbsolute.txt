@@ -1,0 +1,6 @@
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\bin\Debug\model.entity.dll
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\bin\Debug\model.entity.pdb
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\obj\Debug\model.entity.csprojAssemblyReference.cache
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\obj\Debug\model.entity.csproj.CoreCompileInputs.cache
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\obj\Debug\model.entity.dll
+C:\Users\ulirp\Desktop\BAses\Carrera-Ciclistica-PFinal-BD\Capa_Logica\Carreras_Ciclismo\model.entity\obj\Debug\model.entity.pdb

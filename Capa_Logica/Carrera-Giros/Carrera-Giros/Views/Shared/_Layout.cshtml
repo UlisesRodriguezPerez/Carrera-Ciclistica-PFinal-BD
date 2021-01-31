@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!--Todo esto es referntes a los estilos globlas, los que usa toda la app-->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    <link href="~/Content/toastr.css" rel="stylesheet" /> <!--Toastr-->
+</head>
+<body>
+
+
+    <!--Pie de pagina-->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+
+
+        <!-- Footer -->
+        <footer class="page-footer font-small blue-grey lighten-5">
+            <div style="background-color:#F2EEF1;">
+
+                <div style="background-color: #21d192;">
+                    <div class="container">
+
+                        <!-- Grid row-->
+                        <div class="row py-4 d-flex align-items-center">
+
+                            <!-- Grid column -->
+                            <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                                <h6 class="mb-0">A cerca de nosotros</h6>
+                            </div>
+                            <!-- Grid column -->
+                            <!-- Grid column -->
+                            <div class="col-md-6 col-lg-7 text-center text-md-right">
+                                <!--Barrita celeste-->
+                                <span class=".glyphicon .glyphicon-thumbs-up"></span>
+
+                            </div>
+                            <!-- Grid column -->
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Footer Links -->
+                <div class="container text-center text-md-left mt-5">
+
+                    <!-- Grid row -->
+                    <div class="row mt-3 dark-grey-text">
+
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
+                            <!--Espacio en blanco-->
+
+                        </div>
+
+
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                            <!-- Content -->
+                            <h6 class="text-uppercase font-weight-bold">Proyecto de Bases de Datos I</h6>
+                            <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p align="justify">
+                                Este proyecto pretende tener un conocimiento más amplio de las herramientas para desarrollo
+                                web y el uso de MSSQL.
+                            </p>
+
+
+                        </div>
+
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                            <!-- Links -->
+                            <h6 class="text-uppercase font-weight-bold">Contact</h6>
+                            <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+                                <i class="fas fa-home mr-3"></i> San Carlos, CR
+                            </p>
+                            <p>
+                                <i class="fas fa-envelope mr-3"></i> uli.rp1999@gmai.com
+                            </p>
+
+                            <p>
+                                <i class="fas fa-print mr-3"></i> + 506 6066 9560
+                            </p>
+
+                        </div>
+
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                            <!--Espacio en blanco-->
+
+                        </div>
+
+                    </div>
+                    <!-- Grid row -->
+
+                </div>
+                <!-- Footer Links -->
+                <!-- Copyright -->
+                <div class="footer-copyright text-center text-black-50 py-3">
+                    © 2020 Copyright:
+                    <a class="dark-grey-text" href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+                </div>
+                <!-- Copyright -->
+
+
+            </div>
+
+        </footer>
+        <!-- Footer -->
+
+
+    </div>
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/toastr.js"></script> <!--Toastr-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+</body>
+</html>

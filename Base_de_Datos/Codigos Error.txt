@@ -10,3 +10,5 @@
 50010 'ERROR AL INSERTAR DATOS EN LA TABLA [TipoMovimientosPuntosRegular] (SPCargar_Catalogo)'
 50011 'ERROR AL INSERTAR DATOS EN LA TABLA [TipoMovimientoPuntosMontaña] (SPCargar_Catalogo)'
 50012 'ERROR AL Iniciar simulación ([dbo].[SPIniciarSimulacion])'
+50013 'ERROR AL validar Giro ()'
+50014 'ERROR AL buscar Giro ()'
