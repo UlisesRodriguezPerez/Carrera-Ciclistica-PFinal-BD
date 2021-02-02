@@ -1,6 +1,6 @@
 <Root>
     <Year Id="2018">
-        <InstanciaGiro IdGiro="1" CodigoInstancia="CodigoFrancia2018" FechaInicio="05-01-2018" FechaFin="06-01-2018">
+        <InstanciaGiro IdGiro="1" CodigoInstancia="CodigoFrancia2018" FechaInicio="07-02-2018" FechaFin="09-26-2018">
             <GiroXEquipo CodigoInstanciaGiro="CodigoFrancia2018" Equipo="1" />
             <GiroXEquipo CodigoInstanciaGiro="CodigoFrancia2018" Equipo="2" />
             <GiroXEquipo CodigoInstanciaGiro="CodigoFrancia2018" Equipo="3" />

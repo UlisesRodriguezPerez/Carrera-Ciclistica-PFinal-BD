@@ -23,9 +23,10 @@
 50023 'ERROR AL insertar Carrera en simulación  ([dbo].[SPSimulacion])'
 50024 'ERROR AL insertar Llegadas en tabla aux en simulación  ([dbo].[SPSimulacion])'
 50025 'ERROR CON  la insercion de movimientos o llegadas. [dbo].[SPAjustesEstadosCuentaSimulacion])'
-
-
-
+50026 'ERROR al rellenar tablaOrdenada. [dbo].[SPLlegadasSimulacion])'
+50027 'ERROR al iniciar variables de tablaOrdenada. [dbo].[SPLlegadasSimulacion])'
+50028 'ERROR al realizar los updates. [dbo].[SPLlegadasSimulacion])'
+50029 'ERROR al realizar los Insert. [dbo].[SPLlegadasSimulacion])'
 
 
 
