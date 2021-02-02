@@ -12,3 +12,24 @@
 50012 'ERROR AL Iniciar simulación ([dbo].[SPIniciarSimulacion])'
 50013 'ERROR AL validar Giro ()'
 50014 'ERROR AL buscar Giro ()'
+50015 'ERROR AL parsear el archivo de la simulación  ([dbo].[SPSimulacion])' 
+50016 'ERROR AL inicializar las variable principales para recorrer la simulación ([dbo].[SPSimulacion])'
+50017 'ERROR AL obtener el anio para ir iterando Simulación ([dbo].[SPSimulacion])'
+50018 'ERROR AL insertar InstanciaGiro en simulación  ([dbo].[SPSimulacion])'
+50019 'ERROR AL insertar InstanciaDeGiroPorEquipo en simulación  ([dbo].[SPSimulacion])'
+50020 'ERROR AL insertar datos tabla instancias temporal a la simulación  ([dbo].[SPSimulacion])'
+50021 'ERROR AL obtener la instancia para ir iterando Simulación ([dbo].[SPSimulacion])'
+50022 'ERROR AL insertar InstanciaDeGiroPorEquipoPorCorredor en simulación  ([dbo].[SPSimulacion])'
+50023 'ERROR AL insertar Carrera en simulación  ([dbo].[SPSimulacion])'
+50024 'ERROR AL insertar Llegadas en tabla aux en simulación  ([dbo].[SPSimulacion])'
+50025 'ERROR CON  la insercion de movimientos o llegadas. [dbo].[SPAjustesEstadosCuentaSimulacion])'
+
+
+
+
+
+
+
+
+
+
