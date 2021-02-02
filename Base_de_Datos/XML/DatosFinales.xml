@@ -518,16 +518,16 @@
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2018" Equipo="5" Corredor="38" NumeroCamisa="38" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2018" Equipo="5" Corredor="39" NumeroCamisa="39" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2018" Equipo="5" Corredor="40" NumeroCamisa="40" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-1" IdEtapa="1" FechaCarrera="2018-07-03 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-2" IdEtapa="2" FechaCarrera="2018-07-04 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-3" IdEtapa="3" FechaCarrera="2018-07-05 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-4" IdEtapa="4" FechaCarrera="2018-07-06 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-5" IdEtapa="5" FechaCarrera="2018-07-07 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-6" IdEtapa="6" FechaCarrera="2018-07-08 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-7" IdEtapa="7" FechaCarrera="2018-07-09 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-8" IdEtapa="8" FechaCarrera="2018-07-10 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-9" IdEtapa="9" FechaCarrera="2018-07-11 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-10" IdEtapa="10" FechaCarrera="2018-07-12 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-1" IdEtapa="11" FechaCarrera="2018-07-03 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-2" IdEtapa="12" FechaCarrera="2018-07-04 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-3" IdEtapa="13" FechaCarrera="2018-07-05 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-4" IdEtapa="14" FechaCarrera="2018-07-06 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-5" IdEtapa="15" FechaCarrera="2018-07-07 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-6" IdEtapa="16" FechaCarrera="2018-07-08 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-7" IdEtapa="17" FechaCarrera="2018-07-09 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-8" IdEtapa="18" FechaCarrera="2018-07-10 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-9" IdEtapa="19" FechaCarrera="2018-07-11 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2018" CodigoCarrera="CodigoItalia2018-10" IdEtapa="20" FechaCarrera="2018-07-12 00:00:00" HoraInicio="09:00:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-1" NumeroCamisa="1" HoraLlegada="10:41:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-1" NumeroCamisa="2" HoraLlegada="09:32:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-1" NumeroCamisa="3" HoraLlegada="09:28:00" />
@@ -1464,16 +1464,16 @@
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2019" Equipo="5" Corredor="38" NumeroCamisa="38" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2019" Equipo="5" Corredor="39" NumeroCamisa="39" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2019" Equipo="5" Corredor="40" NumeroCamisa="40" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-1" IdEtapa="1" FechaCarrera="2019-08-06 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-2" IdEtapa="2" FechaCarrera="2019-08-07 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-3" IdEtapa="3" FechaCarrera="2019-08-08 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-4" IdEtapa="4" FechaCarrera="2019-08-09 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-5" IdEtapa="5" FechaCarrera="2019-08-10 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-6" IdEtapa="6" FechaCarrera="2019-08-11 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-7" IdEtapa="7" FechaCarrera="2019-08-12 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-8" IdEtapa="8" FechaCarrera="2019-08-13 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-9" IdEtapa="9" FechaCarrera="2019-08-14 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-10" IdEtapa="10" FechaCarrera="2019-08-15 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-1" IdEtapa="11" FechaCarrera="2019-08-06 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-2" IdEtapa="12" FechaCarrera="2019-08-07 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-3" IdEtapa="13" FechaCarrera="2019-08-08 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-4" IdEtapa="14" FechaCarrera="2019-08-09 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-5" IdEtapa="15" FechaCarrera="2019-08-10 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-6" IdEtapa="16" FechaCarrera="2019-08-11 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-7" IdEtapa="17" FechaCarrera="2019-08-12 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-8" IdEtapa="18" FechaCarrera="2019-08-13 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-9" IdEtapa="19" FechaCarrera="2019-08-14 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2019" CodigoCarrera="CodigoItalia2019-10" IdEtapa="20" FechaCarrera="2019-08-15 00:00:00" HoraInicio="09:00:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-1" NumeroCamisa="1" HoraLlegada="10:05:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-1" NumeroCamisa="2" HoraLlegada="09:44:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-1" NumeroCamisa="3" HoraLlegada="10:00:00" />
@@ -2410,16 +2410,16 @@
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2020" Equipo="5" Corredor="38" NumeroCamisa="38" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2020" Equipo="5" Corredor="39" NumeroCamisa="39" />
         <CorredoresEnEquipoEnGiro CodigoInstanciaGiro="CodigoItalia2020" Equipo="5" Corredor="40" NumeroCamisa="40" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-1" IdEtapa="1" FechaCarrera="2020-09-07 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-2" IdEtapa="2" FechaCarrera="2020-09-08 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-3" IdEtapa="3" FechaCarrera="2020-09-09 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-4" IdEtapa="4" FechaCarrera="2020-09-10 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-5" IdEtapa="5" FechaCarrera="2020-09-11 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-6" IdEtapa="6" FechaCarrera="2020-09-12 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-7" IdEtapa="7" FechaCarrera="2020-09-13 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-8" IdEtapa="8" FechaCarrera="2020-09-14 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-9" IdEtapa="9" FechaCarrera="2020-09-15 00:00:00" HoraInicio="09:00:00" />
-        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-10" IdEtapa="10" FechaCarrera="2020-09-16 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-1" IdEtapa="11" FechaCarrera="2020-09-07 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-2" IdEtapa="12" FechaCarrera="2020-09-08 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-3" IdEtapa="13" FechaCarrera="2020-09-09 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-4" IdEtapa="14" FechaCarrera="2020-09-10 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-5" IdEtapa="15" FechaCarrera="2020-09-11 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-6" IdEtapa="16" FechaCarrera="2020-09-12 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-7" IdEtapa="17" FechaCarrera="2020-09-13 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-8" IdEtapa="18" FechaCarrera="2020-09-14 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-9" IdEtapa="19" FechaCarrera="2020-09-15 00:00:00" HoraInicio="09:00:00" />
+        <Carrera CodigoInstanciaGiro="CodigoItalia2020" CodigoCarrera="CodigoItalia2020-10" IdEtapa="20" FechaCarrera="2020-09-16 00:00:00" HoraInicio="09:00:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-1" NumeroCamisa="1" HoraLlegada="11:18:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-1" NumeroCamisa="2" HoraLlegada="11:40:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-1" NumeroCamisa="3" HoraLlegada="11:51:00" />
