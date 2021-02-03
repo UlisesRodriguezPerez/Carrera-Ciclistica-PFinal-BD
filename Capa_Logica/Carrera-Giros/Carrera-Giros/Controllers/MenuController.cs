@@ -31,7 +31,7 @@ namespace Carrera_Giros.Controllers
             
             if(nombre != "")
             {
-                return RedirectToAction("/MenuGiro/" + giro.IdGiro);
+                return RedirectToAction("/MenuGiro/" + giro.IdInstanciaGiro);
             }
             
             else

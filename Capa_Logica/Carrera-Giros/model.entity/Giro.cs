@@ -14,7 +14,7 @@ namespace model.entity
         private int anio;
         private DateTime fechaInicio;
         private DateTime fechaFinal;
-
+        private int idInstanciaGiro;
 
         public Giro() { }
 
@@ -25,13 +25,14 @@ namespace model.entity
         }
 
         //Constructor con todos los campos.
-        public Giro(int pIdGiro, string pNombreGiro, int anio, DateTime fechaInicio, DateTime fechaFinal)
+        public Giro(int pIdGiro, string pNombreGiro, int anio, DateTime fechaInicio, DateTime fechaFinal, int idInstanciaGiro)
         {
             this.idGiro = pIdGiro;
             this.nombreGiro = pNombreGiro;
             this.anio = anio;
             this.fechaInicio = fechaInicio;
             this.fechaFinal = fechaFinal;
+            this.idInstanciaGiro = idInstanciaGiro;
         }
 
         public int IdGiro { get => idGiro; set => idGiro = value; }
@@ -39,5 +40,6 @@ namespace model.entity
         public int Anio { get => anio; set => anio = value; }
         public DateTime FechaInicio { get => fechaInicio; set => fechaInicio = value; }
         public DateTime FechaFinal { get => fechaFinal; set => fechaFinal = value; }
+        public int IdInstanciaGiro { get => idInstanciaGiro; set => idInstanciaGiro = value; }
     }
 }

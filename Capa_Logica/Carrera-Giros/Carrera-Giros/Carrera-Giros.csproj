@@ -120,6 +120,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\InstanciaCorredorController.cs" />
     <Compile Include="Controllers\MenuController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -161,6 +162,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Menu\Inicio.cshtml" />
     <Content Include="Views\Menu\MenuGiro.cshtml" />
+    <Content Include="Views\InstanciaCorredor\MasRegulares.cshtml" />
+    <Content Include="Views\InstanciaCorredor\MejoresGiroTiempo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

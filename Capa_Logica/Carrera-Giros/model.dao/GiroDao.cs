@@ -96,6 +96,7 @@ namespace model.dao
                     objetoGiro.Anio = Convert.ToInt32(read[2].ToString());
                     objetoGiro.FechaInicio = Convert.ToDateTime(read[3].ToString());
                     objetoGiro.FechaFinal = Convert.ToDateTime(read[4].ToString());
+                    objetoGiro.IdInstanciaGiro = Convert.ToInt32(read[5].ToString());
                     result = read[1].ToString();       //PENDIENTE, no sé si vaya a funcionar.
 
                 }
@@ -103,6 +104,7 @@ namespace model.dao
                 {
                     result = "";        //PENDIENTE  Recibir le mensaje con el código de error de BD.
                 }
+                //System.Diagnostics.Debug.WriteLine(objetoGiro.IdInstanciaGiro);
             }
             catch (Exception)
             {
@@ -134,7 +136,8 @@ namespace model.dao
                     objetoGiro.Anio = Convert.ToInt32(read[2].ToString());
                     objetoGiro.FechaInicio = Convert.ToDateTime(read[3].ToString());
                     objetoGiro.FechaFinal = Convert.ToDateTime(read[4].ToString());
-                    
+                    objetoGiro.IdInstanciaGiro = Convert.ToInt32(read[5].ToString());
+
                 }
             }
             catch (Exception)
