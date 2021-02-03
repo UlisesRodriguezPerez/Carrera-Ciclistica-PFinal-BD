@@ -27,8 +27,8 @@
 50027 'ERROR al iniciar variables de tablaOrdenada. [dbo].[SPLlegadasSimulacion])'
 50028 'ERROR al realizar los updates. [dbo].[SPLlegadasSimulacion])'
 50029 'ERROR al realizar los Insert. [dbo].[SPLlegadasSimulacion])'
-
-
+50030 'ERROR al iniciar variables. [dbo].[SPPremioMontana])'
+50031 'ERROR al realizar los updates. [dbo].[SPPremioMonstana])'
 
 
 
