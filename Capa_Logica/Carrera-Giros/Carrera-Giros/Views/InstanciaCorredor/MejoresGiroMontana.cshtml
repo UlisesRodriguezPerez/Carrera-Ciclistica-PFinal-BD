@@ -1,6 +1,6 @@
 ﻿@model List<model.entity.InstanciaCorredor>
 @{
-    ViewBag.Title = "Top 10 mejores tiempos";
+    ViewBag.Title = "Top 10 montañas";
 }
 
 
@@ -8,7 +8,7 @@
 @Html.Partial("~/Views/Shared/NavBar.cshtml")
 
 <div class="container-fluid">
-    <h3>Top 10 mejores </h3>
+    <h3>Top 10 montaña </h3>
 
     <table class="table">
         <tr class="btn-primary">
@@ -18,7 +18,7 @@
             <th>Nombre Corredor</th>
             <th>Numero Camisa</th>
             <th>Nombre Equipo</th>
-            <th>Suma Tiempo</th>
+            <th>Suma Puntos Montaña</th>
 
             <th colspan="5"></th>
         </tr>
@@ -33,7 +33,7 @@
                 <td>@objetoInstanciaCorredor.NombreCorredor</td>
                 <td>@objetoInstanciaCorredor.NumeroCamisa</td>
                 <td>@objetoInstanciaCorredor.NombreEquipo</td>
-                <td>@objetoInstanciaCorredor.TiempoTotal</td>
+                <td>@objetoInstanciaCorredor.SumaPuntosMontana</td>
 
 
 

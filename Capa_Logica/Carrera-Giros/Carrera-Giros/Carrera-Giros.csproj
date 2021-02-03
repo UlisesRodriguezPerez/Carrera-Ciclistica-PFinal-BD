@@ -164,6 +164,7 @@
     <Content Include="Views\Menu\MenuGiro.cshtml" />
     <Content Include="Views\InstanciaCorredor\MasRegulares.cshtml" />
     <Content Include="Views\InstanciaCorredor\MejoresGiroTiempo.cshtml" />
+    <Content Include="Views\InstanciaCorredor\MejoresGiroMontana.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

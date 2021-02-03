@@ -78,15 +78,15 @@
 
 <PremioMontana Nombre="The grant Mont"  Puntos="1" IdGiro="1" IdEtapa="5"/>
 
-<PremioMontana Nombre="Alto Monte Blanco"  Puntos="3" IdGiro="2" IdEtapa="1"/>
+<PremioMontana Nombre="Alto Monte Blnco"  Puntos="3" IdGiro="2" IdEtapa="1"/>
 
-<PremioMontana Nombre="Ruta Quebradura de Tierra"  Puntos="1" IdGiro="2" IdEtapa="2"/>
+<PremioMontana Nombre="Ruta Quebrdura de Tierra"  Puntos="1" IdGiro="2" IdEtapa="2"/>
 
-<PremioMontana Nombre="Ruta del Olimpo"  Puntos="1" IdGiro="2" IdEtapa="3"/>
+<PremioMontana Nombre="Ruta de Olimpo"  Puntos="1" IdGiro="2" IdEtapa="3"/>
 
-<PremioMontana Nombre="El purgatorio"  Puntos="1" IdGiro="2" IdEtapa="4"/>
+<PremioMontana Nombre="El pugatorio"  Puntos="1" IdGiro="2" IdEtapa="4"/>
 
-<PremioMontana Nombre="The grant Mont"  Puntos="3" IdGiro="2" IdEtapa="5"/>
+<PremioMontana Nombre="The gran Mont"  Puntos="3" IdGiro="2" IdEtapa="5"/>
 
 </PremiosMontana>
 
