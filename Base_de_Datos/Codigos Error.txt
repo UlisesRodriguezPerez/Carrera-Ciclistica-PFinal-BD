@@ -33,4 +33,4 @@
 50033 'ERROR AL obtener el top mejores Tiempo del Giro([dbo].[SPObtenerTopMejoresTiempos])'
 50034 'ERROR AL obtener el top mejores en montaña del Giro([dbo].[SPObtenerTopMejoresMontana])'
 50035 'ERROR AL obtener el top 3 mejores equipos Tiempo del Giro([dbo].[SPObtenerTopMejoresTiemposEquipos])'
-
+50036 'ERROR AL insertar sanciones en tabla aux en simulación  ([dbo].[SPSimulacion])'
