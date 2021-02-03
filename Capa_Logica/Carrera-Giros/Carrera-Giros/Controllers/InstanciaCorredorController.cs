@@ -15,7 +15,7 @@ namespace Carrera_Giros.Controllers
         
         private InstanciaCorredorDao objetoInstanciaCorredorDao;
 
-        //private CuentaAhorroDao objetoCuentaAhorro;
+        
         
 
         public InstanciaCorredorController()

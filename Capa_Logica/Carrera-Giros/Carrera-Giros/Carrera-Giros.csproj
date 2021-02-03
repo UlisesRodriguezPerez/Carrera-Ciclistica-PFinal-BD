@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\InstanciaCorredorController.cs" />
+    <Compile Include="Controllers\InstanciaEquipoController.cs" />
     <Compile Include="Controllers\MenuController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -165,6 +166,7 @@
     <Content Include="Views\InstanciaCorredor\MasRegulares.cshtml" />
     <Content Include="Views\InstanciaCorredor\MejoresGiroTiempo.cshtml" />
     <Content Include="Views\InstanciaCorredor\MejoresGiroMontana.cshtml" />
+    <Content Include="Views\InstanciaEquipo\MejoresGiroTiempoEquipo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

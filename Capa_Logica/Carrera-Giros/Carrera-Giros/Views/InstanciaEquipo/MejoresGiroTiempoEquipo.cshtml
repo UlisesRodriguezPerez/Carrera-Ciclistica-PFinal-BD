@@ -1,0 +1,47 @@
+﻿@model List<model.entity.InstanciaEquipo>
+@{
+    ViewBag.Title = "Top 3 mejores eqipos";
+}
+
+
+
+@Html.Partial("~/Views/Shared/NavBar.cshtml")
+
+<div class="container-fluid">
+    <h3>Top 3 mejores equipos </h3>
+
+    <table class="table">
+        <tr class="btn-primary">
+            <th>Posición</th>
+            <th>Nombre Giro</th>
+            <th>Año</th>
+            <th>Nombre Equipo</th>
+            <th>Suma Tiempo</th>
+
+            <th colspan="5"></th>
+        </tr>
+        @{int x = 0;}
+        @foreach (var objetoInstanciaCorredor in Model)
+        {
+            x = x + 1;
+            <tr>
+                <td>@x</td>
+                <td>@objetoInstanciaCorredor.NombreGiro</td>
+                <td>@objetoInstanciaCorredor.Anio</td>
+                <td>@objetoInstanciaCorredor.NombreEquipo</td>
+                <td>@objetoInstanciaCorredor.TiempoTotal</td>
+
+
+
+                @* <td><a class="btn btn-outline-primary" href="~/Menu/MenuGiro/@objetoInstanciaCorredor.Id">Regresar</a></td>*@
+
+            </tr>
+        }
+
+
+    </table>
+
+</div>
+<p>@ViewBag.ErrorMessage</p>
+
+

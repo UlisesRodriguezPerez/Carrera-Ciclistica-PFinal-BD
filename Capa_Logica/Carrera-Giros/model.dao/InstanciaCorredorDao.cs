@@ -22,69 +22,6 @@ namespace model.dao
             objConexion = Conexion.saberEstado();
         }
 
-        public string findIdCA(InstanciaCorredor instanciaCorredor)
-        {
-            string indice;
-            try
-            {
-                comando = new SqlCommand("SPFindIdCA", objConexion.getConexion());
-                comando.CommandType = CommandType.StoredProcedure;
-                comando.Parameters.AddWithValue("@pNumeroCuentaDeAhorro", instanciaCorredor.IdCorredor);
-                objConexion.getConexion().Open();
-                SqlDataReader read = comando.ExecuteReader();
-                read.Read();
-                indice = read[0].ToString();
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-            finally
-            {
-                objConexion.getConexion().Close();
-                objConexion.cerrarConexion();
-            }
-            return indice;
-        }
-
-
-
-        public void create(InstanciaCorredor instanciaCorredor)
-        {
-            string existePersona;
-            try
-            {
-                comando = new SqlCommand("SPInsertarBeneficiario", objConexion.getConexion());
-                comando.CommandType = CommandType.StoredProcedure;
-                //comando.Parameters.AddWithValue("@pIdTipoParentezco",beneficiario.IdTipoParentezco);
-                comando.Parameters.AddWithValue("@pParentezco", instanciaCorredor.IdCorredor);
-                comando.Parameters.AddWithValue("@pDocumentoIdentidadPersona", instanciaCorredor);
-                //comando.Parameters.AddWithValue("@pIdPersona", beneficiario.IdPersona);
-                comando.Parameters.AddWithValue("@pNumeroCuentaAhorro", instanciaCorredor);
-                comando.Parameters.AddWithValue("@pPorcentaje ", instanciaCorredor);
-                objConexion.getConexion().Open();
-                comando.ExecuteNonQuery();
-
-                //SqlDataReader read = comando.ExecuteReader();
-                //read.Read();
-                //existePersona = read[1].ToString();
-                //System.Diagnostics.Debug.WriteLine(existePersona);
-            }
-
-            catch (Exception)
-            {
-                throw;
-            }
-            finally
-            {
-                objConexion.getConexion().Close();
-                objConexion.cerrarConexion();
-            }
-            //return existePersona;
-        }
-
-
-
         public bool find(InstanciaCorredor objetoInstanciaCorredor)
         {
             bool hayRegistros;
@@ -131,46 +68,7 @@ namespace model.dao
             List<InstanciaCorredor> listaInstanciaCorredor = new List<InstanciaCorredor>();
             return listaInstanciaCorredor;
         }
-        public List<InstanciaCorredor> findAllAdmin()
-        {
-            List<InstanciaCorredor> listaInstanciaCorredor = new List<InstanciaCorredor>();
-
-            try
-            {
-                comando = new SqlCommand("SPObtenerBeneficiariosTotales", objConexion.getConexion());
-                comando.CommandType = CommandType.StoredProcedure;
-                //comando.Parameters.AddWithValue("@idCuentaAhorro", id);
-                objConexion.getConexion().Open();
-                SqlDataReader read = comando.ExecuteReader();
-                while (read.Read())
-                {
-
-                    InstanciaCorredor objetoInstanciaCorredor = new InstanciaCorredor
-                    {
-                        NombreCorredor = read[0].ToString(),
-                        //NumeroCuenta = Convert.ToInt32(read[1].ToString()),
-                        //Cantidad = Convert.ToInt32(read[2].ToString()),
-                        //MontoTotal = Convert.ToDecimal(read[3].ToString()),
-                        //Porcentaje = Convert.ToInt32(read[4].ToString()),
-                        //Nombre = read[5].ToString(),
-                        //Parentezco = read[6].ToString(),
-                        //NumeroCuenta = Convert.ToInt32(read[7].ToString()),
-                    };
-                    listaInstanciaCorredor.Add(objetoInstanciaCorredor);
-                }
-            }
-
-            catch (Exception)
-            {
-                throw;
-            }
-            finally
-            {
-                objConexion.getConexion().Close();
-                objConexion.cerrarConexion();
-            }
-            return listaInstanciaCorredor;
-        }
+       
 
         public List<InstanciaCorredor> find10MejoresRegulares(int id)
         {
