@@ -38,16 +38,7 @@ namespace model.dao
                     objetoInstanciaCorredor.Id = Convert.ToInt32(read[0].ToString());
                     objetoInstanciaCorredor.IdCorredor = Convert.ToInt32(read[1].ToString());
                     objetoInstanciaCorredor.IdInstanciaGiroPorEquipo = Convert.ToInt32(read[2].ToString());
-                    //objetoInstanciaCorredor.IdCuenta = Convert.ToInt32(read[3].ToString());
-                    //objetoInstanciaCorredor.Porcentaje = Convert.ToInt32(read[4].ToString());
-                    //objetoInstanciaCorredor.Nombre = read[5].ToString();
-                    //objetoInstanciaCorredor.Parentezco = read[6].ToString();
-                    //objetoInstanciaCorredor.NumeroCuenta = Convert.ToInt32(read[7].ToString());
-                    //objetoInstanciaCorredor.FechaNacimiento = Convert.ToDateTime(read[8].ToString());
-                    //objetoInstanciaCorredor.Telefono1 = read[9].ToString();
-                    //objetoInstanciaCorredor.Telefono2 = read[10].ToString();
-                    //objetoInstanciaCorredor.CorreoElectronico = read[11].ToString();
-                    //objetoInstanciaCorredor.ValorDocumentoId = read[12].ToString();
+
 
                 }
             }

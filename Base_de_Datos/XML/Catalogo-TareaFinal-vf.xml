@@ -1,0 +1,235 @@
+
+
+<Catalogos>
+
+
+<Paises>
+
+<Pais Nombre="Francia" Id="1"/>
+
+<Pais Nombre="Italia" Id="2"/>
+
+</Paises>
+
+
+<Giros>
+
+<Giro Nombre="Giro de Francia" Id="1" IdPais="1"/>
+
+<Giro Nombre="Giro de Italia" Id="2" IdPais="2"/>
+
+</Giros>
+
+
+<Etapas>
+
+<Etapa Nombre="Paris - Marsella" Id="1" Puntos="15" IdGiro="1"/>
+
+<Etapa Nombre="Bormio - Umbrail" Id="2" Puntos="11" IdGiro="1"/>
+
+<Etapa Nombre="Brest - Landernau" Id="3" Puntos="6" IdGiro="1"/>
+
+<Etapa Nombre="Perros-Guirec - Muro de Bretaña" Id="4" Puntos="14" IdGiro="1"/>
+
+<Etapa Nombre="Perros-Guirec - Muro de Bretaña" Id="5" Puntos="5" IdGiro="1"/>
+
+<Etapa Nombre="Lorient - Pontivy" Id="6" Puntos="16" IdGiro="1"/>
+
+<Etapa Nombre="Redon - Fougères." Id="7" Puntos="13" IdGiro="1"/>
+
+<Etapa Nombre="Changé - Laval" Id="8" Puntos="1" IdGiro="1"/>
+
+<Etapa Nombre="Tours - Châteauroux" Id="9" Puntos="10" IdGiro="1"/>
+
+<Etapa Nombre="Vierzon - Le Creusot" Id="10" Puntos="6" IdGiro="1"/>
+
+<Etapa Nombre="Monreale - Palermo" Id="11" Puntos="16" IdGiro="2"/>
+
+<Etapa Nombre="Alcamo - Agrigento" Id="12" Puntos="7" IdGiro="2"/>
+
+<Etapa Nombre="Enna - Etna" Id="13" Puntos="19" IdGiro="2"/>
+
+<Etapa Nombre="Catania - Villafranca Tirrena" Id="14" Puntos="14" IdGiro="2"/>
+
+<Etapa Nombre="Mileto - Camigliatello Silano" Id="15" Puntos="19" IdGiro="2"/>
+
+<Etapa Nombre="Castrovillari - Matera" Id="16" Puntos="14" IdGiro="2"/>
+
+<Etapa Nombre="Matera - Brindisi" Id="17" Puntos="9" IdGiro="2"/>
+
+<Etapa Nombre="Giovinazzo - Vieste" Id="18" Puntos="7" IdGiro="2"/>
+
+<Etapa Nombre="San Salvo - Roccaraso" Id="19" Puntos="17" IdGiro="2"/>
+
+<Etapa Nombre="Lanciano - Tortoreto Lido" Id="20" Puntos="7" IdGiro="2"/>
+
+</Etapas>
+
+
+<PremiosMontana>
+
+<PremioMontana Nombre="Alto Monte Blanco" Puntos="3" IdGiro="1" IdEtapa="1"/>
+
+<PremioMontana Nombre="Ruta Quebradura de Tierra" Puntos="3" IdGiro="1" IdEtapa="2"/>
+
+<PremioMontana Nombre="Ruta del Olimpo" Puntos="1" IdGiro="1" IdEtapa="3"/>
+
+<PremioMontana Nombre="El purgatorio" Puntos="3" IdGiro="1" IdEtapa="4"/>
+
+<PremioMontana Nombre="The grant Mont" Puntos="1" IdGiro="1" IdEtapa="5"/>
+
+<PremioMontana Nombre="Alto Montes Blanco" Puntos="3" IdGiro="2" IdEtapa="1"/>
+
+<PremioMontana Nombre="Ruta Quebradura del Tierra" Puntos="1" IdGiro="2" IdEtapa="2"/>
+
+<PremioMontana Nombre="Ruta de Olimpo" Puntos="1" IdGiro="2" IdEtapa="3"/>
+
+<PremioMontana Nombre="El prgatorio" Puntos="1" IdGiro="2" IdEtapa="4"/>
+
+<PremioMontana Nombre="The gran Mont" Puntos="3" IdGiro="2" IdEtapa="5"/>
+
+</PremiosMontana>
+
+
+<Equipos>
+
+<Equipo Nombre="Guillete" Id="1"/>
+
+<Equipo Nombre="BAC Credomatic" Id="2"/>
+
+<Equipo Nombre="Los Intendentes" Id="3"/>
+
+<Equipo Nombre="EPA" Id="4"/>
+
+<Equipo Nombre="Movistar" Id="5"/>
+
+</Equipos>
+
+
+<Corredores>
+
+<Corredor Nombre="Gideon Perry" Id="1"/>
+
+<Corredor Nombre="Zaynah Stokes" Id="2"/>
+
+<Corredor Nombre="Isra Fields" Id="3"/>
+
+<Corredor Nombre="Tamika Bernard" Id="4"/>
+
+<Corredor Nombre="Salahuddin Ware" Id="5"/>
+
+<Corredor Nombre="Tasneem Harrison" Id="6"/>
+
+<Corredor Nombre="Elsie-Rose" Id="7"/>
+
+<Corredor Nombre="Laing" Id="8"/>
+
+<Corredor Nombre="Xena Hendrix" Id="9"/>
+
+<Corredor Nombre="Saira Webster" Id="10"/>
+
+<Corredor Nombre="Rosina Winter" Id="11"/>
+
+<Corredor Nombre="Onur Eastwood" Id="12"/>
+
+<Corredor Nombre="Calista Gay" Id="13"/>
+
+<Corredor Nombre="Giselle Chapman" Id="14"/>
+
+<Corredor Nombre="Daisy Salas" Id="15"/>
+
+<Corredor Nombre="Sunil Rosales" Id="16"/>
+
+<Corredor Nombre="Alfred Drake" Id="17"/>
+
+<Corredor Nombre="Chanice Doyle" Id="18"/>
+
+<Corredor Nombre="Robyn Morse" Id="19"/>
+
+<Corredor Nombre="Lianne Humphreys" Id="20"/>
+
+<Corredor Nombre="Ela Ford" Id="21"/>
+
+<Corredor Nombre="Primrose Snyder" Id="22"/>
+
+<Corredor Nombre="Bree Wilson" Id="23"/>
+
+<Corredor Nombre="Akram Sanchez" Id="24"/>
+
+<Corredor Nombre="Xavier Rivas" Id="25"/>
+
+<Corredor Nombre="Adriana Curry" Id="26"/>
+
+<Corredor Nombre="Quinn Harmon" Id="27"/>
+
+<Corredor Nombre="Hadassah Luna" Id="28"/>
+
+<Corredor Nombre="Hal Everett" Id="29"/>
+
+<Corredor Nombre="Afsana Camacho" Id="30"/>
+
+<Corredor Nombre="Paul Oconnell" Id="31"/>
+
+<Corredor Nombre="Haya Alston" Id="32"/>
+
+<Corredor Nombre="Margo Turnbull" Id="33"/>
+
+<Corredor Nombre="Annie Pierce" Id="34"/>
+
+<Corredor Nombre="Mahek Hopkins" Id="35"/>
+
+<Corredor Nombre="Farrah Martin" Id="36"/>
+
+<Corredor Nombre="Keegan Bolton" Id="37"/>
+
+<Corredor Nombre="Josef Larson" Id="38"/>
+
+<Corredor Nombre="Connah Lim" Id="39"/>
+
+<Corredor Nombre="Beck Couch" Id="40"/>
+
+</Corredores>
+
+
+<Jueces>
+
+<Juez Nombre="Lolo Vega" Id="1"/>
+
+<Juez Nombre="Maria Alexandra" Id="2"/>
+
+<Juez Nombre="Manuel Galindo" Id="3"/>
+
+<Juez Nombre="Franco Quiros" Id="4"/>
+
+<Juez Nombre="Ximena Ramirez" Id="5"/>
+
+</Jueces>
+
+
+<TiposMovimientoTiempo>
+
+<TipoMovimientoTiempo Nombre="Debito por Sancion" Id="1"/>
+
+<TipoMovimientoTiempo Nombre="Credito por Tiempo Duracion Carrera" Id="2"/>
+
+</TiposMovimientoTiempo>
+
+
+<TiposMovimientosPuntosRegularidad>
+
+<TipoMovimientosPuntosRegularidad Nombre="Credito por Puntos Ganados en Carrera" Id="1"/>
+
+<TipoMovimientosPuntosRegularidad Nombre="Debito por ajuste en puntos" Id="2"/>
+
+</TiposMovimientosPuntosRegularidad>
+
+
+<TiposMovimientoPuntosMontana>
+
+<TipoMovimientoPuntosMontana Nombre="Credito por Ganar Premio" Id="1"/>
+
+<TipoMovimientoPuntosMontana Nombre="Debito por Ajuste" Id="2"/>
+
+</TiposMovimientoPuntosMontana>
+
+</Catalogos>

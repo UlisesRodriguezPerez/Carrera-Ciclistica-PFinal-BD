@@ -456,11 +456,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2018-10" NumeroCamisa="38" HoraLlegada="09:44:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2018-10" NumeroCamisa="39" HoraLlegada="11:39:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2018-10" NumeroCamisa="40" HoraLlegada="09:34:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-1" NombrePremio="El purgatorio" NumeroCamisa="31" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-2" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="24" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-3" NombrePremio="El purgatorio" NumeroCamisa="3" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-4" NombrePremio="Alto Monte Blanco" NumeroCamisa="10" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-5" NombrePremio="The grant Mont" NumeroCamisa="39" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-1" NombrePremio="El purgatorio" NumeroCamisa="20" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-2" NombrePremio="The grant Mont" NumeroCamisa="12" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-3" NombrePremio="Ruta del Olimpo" NumeroCamisa="12" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-4" NombrePremio="Alto Monte Blanco" NumeroCamisa="14" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2018-5" NombrePremio="Ruta del Olimpo" NumeroCamisa="18" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2018-1" IdJuez="1" NumeroCamisa="23" MinutosCastigo="16" Descripcion="Mal vocabulario" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2018-2" IdJuez="5" NumeroCamisa="8" MinutosCastigo="17" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2018-3" IdJuez="5" NumeroCamisa="12" MinutosCastigo="5" Descripcion="Mala conducta" />
@@ -928,11 +928,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-10" NumeroCamisa="38" HoraLlegada="11:37:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-10" NumeroCamisa="39" HoraLlegada="11:19:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2018-10" NumeroCamisa="40" HoraLlegada="11:23:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-1" NombrePremio="El purgatorio" NumeroCamisa="9" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-2" NombrePremio="El Coliseo" NumeroCamisa="8" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-3" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="35" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-4" NombrePremio="El Coliseo" NumeroCamisa="12" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-5" NombrePremio="Odisea" NumeroCamisa="17" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-1" NombrePremio="Ruta Quebradura del Tierra" NumeroCamisa="6" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-2" NombrePremio="El prgatorio" NumeroCamisa="1" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-3" NombrePremio="Ruta de Olimpo" NumeroCamisa="16" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-4" NombrePremio="El prgatorio" NumeroCamisa="24" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2018-5" NombrePremio="The gran Mont" NumeroCamisa="17" />
         <SancionCarrera CodigoCarrera="CodigoItalia2018-1" IdJuez="1" NumeroCamisa="11" MinutosCastigo="7" Descripcion="Mala conducta" />
         <SancionCarrera CodigoCarrera="CodigoItalia2018-2" IdJuez="3" NumeroCamisa="35" MinutosCastigo="8" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoItalia2018-3" IdJuez="1" NumeroCamisa="10" MinutosCastigo="20" Descripcion="Mal vocabulario" />
@@ -1402,11 +1402,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2019-10" NumeroCamisa="38" HoraLlegada="09:54:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2019-10" NumeroCamisa="39" HoraLlegada="09:59:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2019-10" NumeroCamisa="40" HoraLlegada="11:34:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-1" NombrePremio="El Coliseo" NumeroCamisa="21" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-2" NombrePremio="The grant Mont" NumeroCamisa="33" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-3" NombrePremio="Ruta del Olimpo" NumeroCamisa="2" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-4" NombrePremio="Odisea" NumeroCamisa="29" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-5" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="11" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-1" NombrePremio="The grant Mont" NumeroCamisa="32" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-2" NombrePremio="The grant Mont" NumeroCamisa="18" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-3" NombrePremio="Alto Monte Blanco" NumeroCamisa="10" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-4" NombrePremio="El purgatorio" NumeroCamisa="3" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2019-5" NombrePremio="The grant Mont" NumeroCamisa="15" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2019-1" IdJuez="5" NumeroCamisa="24" MinutosCastigo="14" Descripcion="Mal vocabulario" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2019-2" IdJuez="4" NumeroCamisa="4" MinutosCastigo="11" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2019-3" IdJuez="3" NumeroCamisa="40" MinutosCastigo="9" Descripcion="Mala conducta" />
@@ -1874,11 +1874,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-10" NumeroCamisa="38" HoraLlegada="09:08:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-10" NumeroCamisa="39" HoraLlegada="10:42:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2019-10" NumeroCamisa="40" HoraLlegada="11:31:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-1" NombrePremio="El Coliseo" NumeroCamisa="10" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-2" NombrePremio="Odisea" NumeroCamisa="13" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-3" NombrePremio="El purgatorio" NumeroCamisa="14" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-4" NombrePremio="Gladiador" NumeroCamisa="14" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-5" NombrePremio="El purgatorio" NumeroCamisa="14" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-1" NombrePremio="The gran Mont" NumeroCamisa="25" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-2" NombrePremio="Ruta de Olimpo" NumeroCamisa="8" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-3" NombrePremio="Ruta de Olimpo" NumeroCamisa="27" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-4" NombrePremio="The gran Mont" NumeroCamisa="7" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2019-5" NombrePremio="The gran Mont" NumeroCamisa="28" />
         <SancionCarrera CodigoCarrera="CodigoItalia2019-1" IdJuez="2" NumeroCamisa="31" MinutosCastigo="17" Descripcion="Mal vocabulario" />
         <SancionCarrera CodigoCarrera="CodigoItalia2019-2" IdJuez="2" NumeroCamisa="14" MinutosCastigo="17" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoItalia2019-3" IdJuez="1" NumeroCamisa="39" MinutosCastigo="3" Descripcion="Mal vocabulario" />
@@ -2348,11 +2348,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2020-10" NumeroCamisa="38" HoraLlegada="10:54:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2020-10" NumeroCamisa="39" HoraLlegada="09:02:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoFrancia2020-10" NumeroCamisa="40" HoraLlegada="09:42:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-1" NombrePremio="Ruta del Olimpo" NumeroCamisa="37" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-2" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="37" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-3" NombrePremio="The grant Mont" NumeroCamisa="18" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-4" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="16" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-5" NombrePremio="Ruta del Olimpo" NumeroCamisa="24" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-1" NombrePremio="Ruta del Olimpo" NumeroCamisa="6" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-2" NombrePremio="El purgatorio" NumeroCamisa="13" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-3" NombrePremio="The grant Mont" NumeroCamisa="33" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-4" NombrePremio="Ruta del Olimpo" NumeroCamisa="4" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoFrancia2020-5" NombrePremio="Ruta Quebradura de Tierra" NumeroCamisa="26" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2020-1" IdJuez="4" NumeroCamisa="18" MinutosCastigo="5" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2020-2" IdJuez="2" NumeroCamisa="32" MinutosCastigo="1" Descripcion="Uniforme sucio" />
         <SancionCarrera CodigoCarrera="CodigoFrancia2020-3" IdJuez="1" NumeroCamisa="20" MinutosCastigo="19" Descripcion="Uniforme sucio" />
@@ -2820,11 +2820,11 @@
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-10" NumeroCamisa="38" HoraLlegada="10:18:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-10" NumeroCamisa="39" HoraLlegada="10:03:00" />
         <FinalCorredoresEnCarrera CodigoCarrera="CodigoItalia2020-10" NumeroCamisa="40" HoraLlegada="11:25:00" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-1" NombrePremio="El Coliseo" NumeroCamisa="33" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-2" NombrePremio="The grant Mont" NumeroCamisa="27" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-3" NombrePremio="El Coliseo" NumeroCamisa="8" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-4" NombrePremio="Alto Monte Blanco" NumeroCamisa="16" />
-        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-5" NombrePremio="El purgatorio" NumeroCamisa="19" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-1" NombrePremio="El prgatorio" NumeroCamisa="5" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-2" NombrePremio="Ruta de Olimpo" NumeroCamisa="10" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-3" NombrePremio="Ruta de Olimpo" NumeroCamisa="12" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-4" NombrePremio="The gran Mont" NumeroCamisa="12" />
+        <GanadorPremioMontanaEnCarrera CodigoCarrera="CodigoItalia2020-5" NombrePremio="Alto Montes Blanco" NumeroCamisa="17" />
         <SancionCarrera CodigoCarrera="CodigoItalia2020-1" IdJuez="5" NumeroCamisa="4" MinutosCastigo="11" Descripcion="Desacatamiento de instrucciones" />
         <SancionCarrera CodigoCarrera="CodigoItalia2020-2" IdJuez="5" NumeroCamisa="16" MinutosCastigo="18" Descripcion="Mala conducta" />
         <SancionCarrera CodigoCarrera="CodigoItalia2020-3" IdJuez="1" NumeroCamisa="26" MinutosCastigo="2" Descripcion="Mal vocabulario" />
